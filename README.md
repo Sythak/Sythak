@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sébastien Hubert</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a recent graduate of Le Wagon Paris, where I received my training as a data scientist. During my time at Le Wagon, I learned a wide range of skills, including data analysis, machine learning, deep learning and data visualization. I am excited to apply these skills to real-world problems and continue learning and growing as a data scientist. On this profile, you will find a selection of my projects and other work, so feel free to take a look around and get in touch if you have any questions or would like to collaborate on a project. Thank you for visiting!</h3>
+<h3 align="center">Welcome to my GitHub profile!</h3>
+
+<p align="left">I am a recent graduate of Le Wagon Paris, where I received my training as a data scientist. During my time at Le Wagon, I learned a wide range of skills, including data analysis, machine learning, deep learning and data visualization. I am excited to apply these skills to real-world problems and continue learning and growing as a data scientist. On this profile, you will find a selection of my projects and other work, so feel free to take a look around and get in touch if you have any questions or would like to collaborate on a project. Thank you for visiting!</p>
 
 - 📫 How to reach me : [LinkedIn :](www.linkedin.com/in/sébastien-hubert-83289761)
 
