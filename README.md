@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [test@test.com](test@test.com)
 
-- 📫 How to reach me : <a href="LinkedIn :" target="www.linkedin.com/in/sébastien-hubert-83289761" rel="noreferrer">
+- 📫 How to reach me : [LinkedIn :](www.linkedin.com/in/sébastien-hubert-83289761)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
